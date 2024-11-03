@@ -1,0 +1,98 @@
+commit 3ff6cf1318f997f6f77124ae1444aaf73af07e2f
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Sat Nov 2 08:31:36 2024 -0400
+
+    Agregando dos párrafos
+
+commit a47ed5c0e9af32f427aac449495e8293cfa9ed8e
+Merge: 11bd7fe aa4156e
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Sat Nov 2 07:58:16 2024 -0400
+
+     Resolviendo conflicto en estaciones el año y fecha de inicio
+
+commit 11bd7fec5cfca1b568f43a0195bbb8f4ad462119
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Fri Nov 1 10:14:57 2024 -0400
+
+    Agregando las estaciones del año cn fecha de inicio
+
+commit aa4156e409e79eaf25992939acaab540cbd2907f
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Fri Nov 1 10:14:57 2024 -0400
+
+    Agregando las estaciones del año
+
+commit 3569fc6b076d4ebee8767879e6af0540333cfc13
+Merge: 7ca7a10 03e44eb
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Fri Nov 1 09:39:30 2024 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 03e44eb3d8356ef387fa088980febf063bb9eef6
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Fri Nov 1 09:21:22 2024 -0400
+
+    Agregando index.js al index.html
+
+commit 7ca7a10ab4d4bd0ca33512528cf23d9e04bf381e
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Fri Nov 1 09:14:59 2024 -0400
+
+    Agregando style.css al index.html
+
+commit a9b5b1332f06577f6cd2ad066e8300b8c78b162d
+Merge: ce966d4 95dd6fa
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 19:45:31 2024 -0400
+
+    Merge branch 'js'
+
+commit 95dd6faae772284cc95787c728b8ec6c8f232c92
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 19:26:04 2024 -0400
+
+     Creando index.js
+
+commit ce966d451f29ec821fd7eadcabed8150854fc6bd
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 19:09:41 2024 -0400
+
+     Creando style.css
+
+commit 67ae804f0c1e67670129993688e2de0fc997720d
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 19:04:13 2024 -0400
+
+     Creando index.html
+
+commit 7e8235650985f5009964d33fa1bf2b86b5b0f92b
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 18:33:26 2024 -0400
+
+    Ignorando archivos .exe
+
+commit c3243d3f31a611dfaf6e60fffbe9e9dc5ecd0cea
+Author: Luis1968-stack <140081473+Luis1968-stack@users.noreply.github.com>
+Date:   Tue Oct 29 14:46:37 2024 -0400
+
+    Creando licencia del repositorio
+
+commit be648d03491a498cbeba734b17d2ca83962ca341
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 14:15:18 2024 -0400
+
+    Agregando más contendido al README
+
+commit 9386f8250300bae465cb8974c151a6c599c5a6ed
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 14:01:20 2024 -0400
+
+    Agraegando contenido inicial al README
+
+commit 00efabfdab3bbb0286a9040b265024c35f9458d6
+Author: Luis1968-stack <luisenriquevaldessojo@gmail.com>
+Date:   Tue Oct 29 13:51:42 2024 -0400
+
+    Primer commit 😊
